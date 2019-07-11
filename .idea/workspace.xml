@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b3b5851-38cd-41fd-9bf3-1300722348a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/Group-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/Y2000/filename-1 (5).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/Y2000/filename-1-(5)_03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/Y2000/filename-1-(5)_05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/Y2000/filename-1-(5)_09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/Y2000/filename-1-(5)_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/atletas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/bask1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/bask3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/bask4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/basquete_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/ca.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/csh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/default-event-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/e-MUSEU_logo-vertical.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/filename-1 (5).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/filename-1-(5)_03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/filename-1-(5)_05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/filename-1-(5)_09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/filename-1-(5)_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/fondo-abstracto-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/header_email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/logo-cbb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/main1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/menu_acervo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/menu_acervo_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/menu_publique.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/menu_publique_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/olho.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/paginacao_direita.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/paginacao_esquerda.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/psa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/images/share.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/img/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/img/default-event-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/index.phtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/js/XMLHttpRequest_functions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/dashboard/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/default/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/default/img/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/default/img/default-event-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/default/index.phtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/default/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/emuseu/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/Group-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/Y2000/filename-1 (5).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/Y2000/filename-1-(5)_03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/Y2000/filename-1-(5)_05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/Y2000/filename-1-(5)_09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/Y2000/filename-1-(5)_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/atletas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/bask1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/bask3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/bask4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/basquete_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/branco_GAMA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/branco_IME.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/branco_SR-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/branco_SR-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/branco_UERJ.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/branco_YDREAMS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/ca.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/carrossel/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/carrossel/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/carrossel/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/carrossel/04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/carrossel/05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/carrossel/banner3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/color_IME.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/color_SR-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/color_UERJ.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/csh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/default-event-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/e-MUSEU_logo-vertical.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/filename-1 (5).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/filename-1-(5)_03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/filename-1-(5)_05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/filename-1-(5)_09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/filename-1-(5)_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/fondo-abstracto-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/header_email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/logo-cbb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/main1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/menu_acervo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/menu_acervo_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/menu_publique.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/menu_publique_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/olho.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/paginacao_direita.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/paginacao_esquerda.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/photo-1549764206-048e4d403417.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/psa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/emuseu/images/share.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/css/cadastro.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/Group-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/Y2000/filename-1 (5).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/Y2000/filename-1-(5)_03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/Y2000/filename-1-(5)_05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/Y2000/filename-1-(5)_09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/Y2000/filename-1-(5)_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/atletas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/basquete_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/ca.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/csh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/default-event-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/e-MUSEU_logo-vertical.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/filename-1 (5).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/filename-1-(5)_03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/filename-1-(5)_05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/filename-1-(5)_09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/filename-1-(5)_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/fondo-abstracto-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/logo-cbb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/main1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/menu_acervo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/menu_acervo_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/menu_publique.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/menu_publique_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/olho.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/paginacao_direita.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/paginacao_esquerda.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/psa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/images/share.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/img/glyphicons-halflings-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/img/glyphicons-halflings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/index.phtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/js/artigo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/static/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/images/artem-verbo-86719-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/images/basquete_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/images/filename-1 (5).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/images/filename-1-(5)_09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/images/filename-1-(5)_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/images/main1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/images/natacao.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/images/natacao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/images/natacao2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home/index.blade.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="oficina-laravel-docker" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="oficina-laravel-docker" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="oficina-laravel-docker" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="emuseu: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/home/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="111" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="111" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/layouts/emuseu.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/assets/emuseu/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="973" column="23" lean-forward="true" selection-start-line="973" selection-start-column="23" selection-end-line="973" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$url_base</find>
+      <find>images/sh</find>
+      <find>images/pa</find>
+      <find>/share</find>
+      <find>share</find>
+      <find>&lt;?PHP echo $url_base; ?&gt;</find>
+      <find>;</find>
+      <find>bootstrap.min</find>
+      <find>libs/</find>
+      <find>&lt;?php echo $template_url ?&gt;</find>
+      <find>&lt;?php echo $url_base ?&gt;</find>
+      <find>url_base</find>
+      <find>&lt;?php echo $url_base; ?&gt;</find>
+      <find>libs</find>
+      <find>black</find>
+      <find>logo</find>
+      <find>scripts</find>
+      <find>im</find>
+      <find>logo.png</find>
+      <find>images</find>
+      <find>images/</find>
+      <find>assets</find>
+      <find>photo-1549764206-048e4d403417.jpg</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>resources</replace>
+      <replace>$urlBase</replace>
+      <replace>resources/libs/</replace>
+      <replace>{{ $urlBase }}</replace>
+      <replace>resources/libs/images/</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/server.php" />
+        <option value="$PROJECT_DIR$/php/local.ini" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/.docker/docs/passos" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/config/database.php" />
+        <option value="$PROJECT_DIR$/bootstrap/app.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_173120_create_usuario_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_173120_create_users_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_esporte_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_181519_evento_tem_esporte.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_182600_evento_tem_esporte.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_evento_relacionado_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_evento_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_evento_tags_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_evento_tem_esporte_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_evento_tem_midia_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_evento_tem_tags_table.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/96fda6ea-3f2a-45da-9247-0384f51d2879/console.sql" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_multimedia_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_evento_tipo_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_grupo_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_mais_vistos_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_multimedia_tipo_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_permissao_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_pessoa_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_usuario_relacionado_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_usuario_status_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_usuario_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_usuario_tem_avatar_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_usuario_tem_esporte_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_usuario_tem_evento_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_usuario_tem_grupo_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_usuario_tem_permissao_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_usuario_tipo_table.php" />
+        <option value="$PROJECT_DIR$/app/User.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_190501_add_columns_usuario_emuseu_mig.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_07_10_192256_add_columns_usuario_emuseu_mig_name.php" />
+        <option value="$PROJECT_DIR$/.docker/docs/passos.md" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/museu.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/museu/template.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/emuseu.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/home/index.blade.php" />
+        <option value="$PROJECT_DIR$/public/assets/emuseu/css/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/xethron/laravel-4-generators" />
+      <path value="$PROJECT_DIR$/vendor/xethron/migrations-generator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="laravel-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravel-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravel-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel-app" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\www\OFICINAS\DOCKER\NGINX-PHP7-LARAVEL\laravel-app\.docker\docs\database" />
+      <recent name="C:\dev\www\OFICINAS\DOCKER\NGINX-PHP7-LARAVEL\laravel-app\public" />
+      <recent name="C:\dev\www\OFICINAS\DOCKER\NGINX-PHP7-LARAVEL\laravel-app\public\resources" />
+      <recent name="C:\dev\www\OFICINAS\DOCKER\NGINX-PHP7-LARAVEL\laravel-app\resources\views\layouts\museu" />
+      <recent name="C:\dev\www\OFICINAS\DOCKER\NGINX-PHP7-LARAVEL\laravel-app\resources\views\layouts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\www\OFICINAS\DOCKER\NGINX-PHP7-LARAVEL\laravel-app\public\resources\images" />
+      <recent name="C:\dev\www\OFICINAS\DOCKER\NGINX-PHP7-LARAVEL\laravel-app\public\resources" />
+      <recent name="C:\dev\www\OFICINAS\DOCKER\NGINX-PHP7-LARAVEL\laravel-app\resources\views\layouts" />
+      <recent name="C:\dev\www\OFICINAS\DOCKER\NGINX-PHP7-LARAVEL\laravel-app\resources\views\layouts\museu" />
+      <recent name="C:\dev\www\OFICINAS\DOCKER\NGINX-PHP7-LARAVEL\laravel-app\.docker\ambiente" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b3b5851-38cd-41fd-9bf3-1300722348a6" name="Default Changelist" comment="" />
+      <created>1562772627380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562772627380</updated>
+      <workItem from="1562772628708" duration="26032000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26032000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="DB Browser" order="0" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.14978679" />
+      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="4" />
+      <window_info anchor="bottom" id="Database Console" order="5" weight="0.283857" />
+      <window_info anchor="bottom" id="DB Execution Console" order="6" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="Database" order="0" weight="0.25479743" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_173120_create_usuario_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="39" column="66" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="39" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_173120_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="31" column="58" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_181519_evento_tem_esporte.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_182600_evento_tem_esporte.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_evento_relacionado_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_evento_tags_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_evento_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_evento_tem_esporte_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_evento_tem_midia_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_esporte_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_evento_tem_tags_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_evento_tipo_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_grupo_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_mais_vistos_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_multimedia_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_permissao_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_pessoa_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_multimedia_tipo_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_usuario_relacionado_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_usuario_tem_avatar_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_usuario_tem_evento_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_usuario_tipo_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_175103_add_foreign_keys_to_evento_relacionado_table.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_usuario_tem_permissao_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_usuario_tem_grupo_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_usuario_tem_esporte_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_usuario_status_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://96fda6ea-3f2a-45da-9247-0384f51d2879/schema/emuseu/table/usuario">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://96fda6ea-3f2a-45da-9247-0384f51d2879/schema/emuseu/table/esporte">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_175101_create_usuario_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_190501_add_columns_usuario_emuseu_mig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="30" selection-start-line="30" selection-end-line="30" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_07_10_192256_add_columns_usuario_emuseu_mig_name.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/96fda6ea-3f2a-45da-9247-0384f51d2879/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.docker/docs/passos.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="500">
+            <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/resources/fonts/fonts.googleapis.opensans-roboto.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/museu/museu.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="45" selection-end-line="72" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/museu/js/artigo.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/resources/libs/js/jquery/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.docker/docs/database/Dump20190710-3.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/emuseu/js/artigo.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/home/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="111" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/emuseu/css/cadastro.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/emuseu.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/emuseu/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="973" column="23" lean-forward="true" selection-start-line="973" selection-start-column="23" selection-end-line="973" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
