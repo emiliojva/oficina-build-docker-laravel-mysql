@@ -1,11 +1,11 @@
-version: '3'
+version: "3.7"
 services:
 
   #PHP Service
   app:
     build:
-      context: ./.docker/ # context: app
-      dockerfile: Dockerfile
+      context: .
+      dockerfile: ./.docker/Dockerfile
     image: emiliojva/laravel-php7
     #image: digitalocean.com/php
     container_name: app

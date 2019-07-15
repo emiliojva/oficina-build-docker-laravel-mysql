@@ -1,13 +1,28 @@
-#### PASSOS PARA MONTAR AMBIENTE DOCKER/LARAVEL/PHP7
+### PASSOS PARA MONTAR AMBIENTE DOCKER/LARAVEL/PHP7
 
--  Executar comando, para gerar pasta /vendor do composer: 
+#####Baixar Repositorio github
 
-No (linux/mac)
+download in https://github.com/emiliojva/oficina-build-docker-laravel-mysql/tree/master/.docker
+
+#####Compor pasta `vendor` 
+```
+composer install
+```
+
+#####Build da imagem utilizada pelo docker-compose
+```
+docker build .\.docker\
+```
+
+
+#####  Executar comando, para gerar pasta /vendor do composer: 
+
+###### No (linux/mac)
 ```
 docker run --rm -v $(pwd):/app composer install 
 ```
 
-No (windows)
+###### No (windows)
 ```
 docker run --rm -v "%cd%":/app composer install
 ```
@@ -15,21 +30,21 @@ docker run --rm -v "%cd%":/app composer install
 
 ---
 
-- Executar comando, após criação do arquivo DockerFile: 
+##### Executar comando, após criação do arquivo DockerFile: 
 ```
 docker build .
 ```
 
 ---
 
-- Executar comando:
+##### Executar comando:
 ```
 docker-compose up -d
 ```
 
 ---
 
-Migrando dados do banco existente
+##### tools - Migrando dados do banco existente
 ``` 
 https://github.com/Xethron/migrations-generator
 ```
